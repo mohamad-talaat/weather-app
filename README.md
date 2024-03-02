@@ -1,3 +1,3 @@
-#  Weather App ✍🏻
-Weather App with openweathermap.org 👨🏻‍💻
+#  Weather App 
+Weather App with openweathermap.org 
 
